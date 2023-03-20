@@ -1,0 +1,17 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    color: brown;
+}
+h2{
+    color: rgb(110, 69, 69);
+}
+footer{
+    align-self: center;
+    color: rgb(243, 240, 240);font-style: italic;
+    display:block ;
+    padding: 20px 82.9px;
+    text-decoration: none;
+    background-color: rgb(10, 10, 10);
+}
